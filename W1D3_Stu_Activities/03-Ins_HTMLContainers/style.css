@@ -1,0 +1,15 @@
+p{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.awesomeStyle {
+    color: white;
+    background-color: blueviolet;
+}
+
+#unique {
+    border:5px solid;
+    border-color: orange;
+    background-color: darkgreen;
+}
